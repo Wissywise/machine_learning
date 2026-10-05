@@ -11,4 +11,7 @@ Bagging_Classification.ipynb
 Bagging_Compare_RanForest.ipynb
 Bagging_RandomForest.ipynb
 Bagging_Regressesion.ipynb
-
+ClassificationCode.ipynb
+data.csv
+ClassificationSamplingProblem.ipynb
+Telco-Customer-Churn.csv
